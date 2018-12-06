@@ -20,9 +20,7 @@ grammar_cjkRuby: true
 
 <div STYLE="page-break-after: always;"></div>
 
-[toc]
-
-[TOC]
+![图书管理系统-思维导图](https://i.loli.net/2018/12/06/5c08940e606b0.jpg)
 
 # 0. 本周总结
 
