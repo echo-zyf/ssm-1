@@ -20,6 +20,10 @@ grammar_cjkRuby: true
 
 <div STYLE="page-break-after: always;"></div>
 
+[toc]
+
+[TOC]
+
 # 0. 本周总结
 
 &emsp;&emsp;不知不觉中我学习Java（从07.21开始到现在）已经快五个月了，这段时间内学习了MySQL、Oracle、Java SE、HTML、Java WEB、Java SSM 和 linux维护的课程，其中因为秋招找工作而耽误了一个月。从刚开始的一个小白到现在，看到自己做的项目运行起来也算是一种满足吧！
